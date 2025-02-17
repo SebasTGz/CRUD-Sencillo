@@ -16,3 +16,4 @@ class Usuario(dbase.Model):
     descripcion = dbase.Column(dbase.Text) 
 
 '''Una instancia es un objeto que se crea a partir de una clase.'''
+#Pequeño cambio GH
